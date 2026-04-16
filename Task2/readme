@@ -1,0 +1,14 @@
+1. Load Titanic dataset from Kaggle.
+2. Clean data (handle missing values like Age).
+3. Answer questions such as:
+o Who survived more: males or females?
+o Did passenger class affect survival chances?
+o What was the survival rate by age group?
+4. Visualize using Seaborn / Matplotlib:
+o Bar chart of survival by gender.
+o Bar chart of survival by class.
+o Histogram of passenger ages.
+Why This Task Is Important
+o Teaches you how to handle real-world messy data.
+o Introduces data visualization, a key skill for Data Scientists.
+o Helps you practice asking and answering business questions with data.
