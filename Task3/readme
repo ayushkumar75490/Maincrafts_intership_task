@@ -1,0 +1,10 @@
+Headline: Beyond the numbers: What really decided who survived the Titanic? 🚢
+
+I just wrapped up a mini-EDA on the classic Titanic dataset, and the results go deeper than just "gender and class." 
+By cleaning the data and engineering new features like Family Size, some fascinating patterns emerged.
+
+Key takeaways from my analysis:
+Family Matters: Having a small family on board actually increased survival rates compared to traveling alone or with a very large group.
+Age Gaps: Visualizing the age distribution helped identify which demographics were prioritized during the rescue.
+Data Integrity: Improved my workflow by implementing mean imputation for missing values and streamlining the dataset for better model readiness. 
+Data isn't just about rows and columns; it’s about the stories hidden within. Check out my visualizations below! 📊
